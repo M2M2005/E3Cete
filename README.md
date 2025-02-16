@@ -16,7 +16,7 @@ Exemple de cartes E3Cete :
 
 ## Technologies utilisées  
 - **Langage principal** : Java  
-- **Outils de développement** : IDE (par exemple, IntelliJ IDEA, Eclipse)
+- **Outils de développement** : IntelliJ IDEA
 
 ## Expérience personnelle  
 La création de ce jeu m'a permis de :  
